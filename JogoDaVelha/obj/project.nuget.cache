@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJ50aTDs0dIK4HB0p4YGL3d8P2OzL3+DTJgNhXrlmAElFSne8xU5PTPkN0WrgABr0VcBGSr7i6UJRBEXyyUEtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\aluraCSharp\\jogoDaVelha\\JogoDaVelha\\JogoDaVelha\\JogoDaVelha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
